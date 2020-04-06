@@ -3,7 +3,7 @@
 # Cclase03funciones
 Programación en C ,Clase 03  funciones
 
-  -1 crear una carpeta
+  -1 crear una carpeta e ingresar a la carpeta
 
   -2 clonar el repositorio propio en esa carpeta
 
